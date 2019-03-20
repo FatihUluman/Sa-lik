@@ -1,1 +1,1 @@
-# Sa-lik
+# Basit bir otomasyon projesi
