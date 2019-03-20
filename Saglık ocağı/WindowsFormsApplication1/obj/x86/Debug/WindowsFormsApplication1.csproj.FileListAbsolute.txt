@@ -1,0 +1,168 @@
+c:\users\hp\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\hp\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\hp\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\hp\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\greenhat\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\Yeni klasör (3)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\Yeni klasör (3)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\sağlık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\sağlık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\sağlık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\greenhat\Desktop\sağlık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\greenhat\Desktop\otomasyon\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\sağlık ocağı(son hali)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\sağlık ocağı(son hali)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\sağlık ocağı asıl son hali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\finish\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\finish\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\finish\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\finish\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\greenhat\Desktop\saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_ARA.resources
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KAYIT_EKLE.resources
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\greenhat\Desktop\masaüstü\Saglık ocağı\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
